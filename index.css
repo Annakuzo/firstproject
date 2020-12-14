@@ -1,0 +1,21 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button
+{
+    border-radius: 8px;
+    background-color: aqua;
+    outline: none;
+}
+
+input{
+    border-radius: 8px;
+    outline: none;
+}
+
+h2{
+    color: blueviolet;
+}
